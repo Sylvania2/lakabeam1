@@ -17,7 +17,6 @@
   <depend>diagnostic_updater</depend>
   <depend>dynamic_reconfigure</depend>
   <depend>message_generation</depend>
-  <depend>tf</depend>
   <depend>tf2</depend>
   
 
